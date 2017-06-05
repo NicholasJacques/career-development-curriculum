@@ -6,9 +6,18 @@
   * [link](https://drive.google.com/file/d/0B2RtUUBRh7n2SUszbW45aThtc1E/view?usp=sharing)
   
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+[link](https://www.turing.io/alumni/nicholas-jacques)
+
+Still working on on making some edits to my resume and figuring out which project to add.
+
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
+[link](https://gist.github.com/NicholasJacques/5d01dd5c77cfa45bca3cbc13b547d45f)
+
+* Link to Trello Board with companies that are being tracked:
+[link](https://trello.com/b/LNeM8aDM/job-search)
+
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+[link](https://gist.github.com/NicholasJacques/d54585ef4f860c23436dd126604b49a9)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
